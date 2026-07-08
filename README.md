@@ -116,11 +116,4 @@ Transformer-based NLP application for detecting toxic online comments.
 ---
 
 
-# 📫 Connect With Me
-
-* GitHub: **https://github.com/Dejashini123**
-* LinkedIn: **https://www.linkedin.com/in/dejashini-t-p-84b05132b/**
-* Email: **dejashini123@gmail.com**
-
----
 
