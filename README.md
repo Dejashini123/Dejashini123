@@ -51,6 +51,23 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 * VS Code
 
 ---
+---
+
+# 💻 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Dejashini/">
+    <img src="https://leetcard.jacoblin.cool/Dejashini?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Dejashini/">
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+> *"Consistently improving problem-solving skills through daily LeetCode practice."*
 
 # 📌 Featured Projects
 
