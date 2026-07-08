@@ -101,15 +101,19 @@ Transformer-based NLP application for detecting toxic online comments.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 Project Highlights
 
-* 🚀 3+ AI & Software Projects
-* 💻 Daily LeetCode Practice
-* 🌱 Continuously learning new technologies
-* 📚 Building production-style applications
+| Achievement                     |    Value |
+| ------------------------------- | -------: |
+| 🚀 AI Projects                  |       3+ |
+| 🌍 End-to-End AI Platforms      |        1 |
+| 🛰️ Satellite Samples Processed  |   3,100+ |
+| 🤖 Machine Learning Models      | Multiple |
+| 💻 Full Stack Projects          |       1+ |
+| 🏆 Hackathons                   |        2 |
+| 📚 Daily LeetCode Practice      |  Ongoing |
 
 ---
-
 
 
 # 📫 Connect With Me
