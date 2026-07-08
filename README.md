@@ -67,7 +67,7 @@ I'm an Electronics and Communication Engineering student passionate about buildi
   </a>
 </p>
 
-> *"Consistently improving problem-solving skills through daily LeetCode practice."*
+
 
 # 📌 Featured Projects
 
